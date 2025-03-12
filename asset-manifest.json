@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BezCurve/static/css/main.f855e6bc.css",
-    "main.js": "/BezCurve/static/js/main.09ce0832.js",
+    "main.js": "/BezCurve/static/js/main.b5d0c022.js",
     "static/media/logo.png": "/BezCurve/static/media/logo.17ff7b79749539a6012e.png",
     "index.html": "/BezCurve/index.html",
     "main.f855e6bc.css.map": "/BezCurve/static/css/main.f855e6bc.css.map",
-    "main.09ce0832.js.map": "/BezCurve/static/js/main.09ce0832.js.map"
+    "main.b5d0c022.js.map": "/BezCurve/static/js/main.b5d0c022.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.09ce0832.js"
+    "static/js/main.b5d0c022.js"
   ]
 }
